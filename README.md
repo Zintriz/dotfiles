@@ -1,4 +1,5 @@
-Install: 
+Install:
+
 0. sudo apt install stow
 1. clone repo into ~/dotfiles
 2. cd ~/dotfiles
